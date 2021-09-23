@@ -1,0 +1,33 @@
+.container {
+    overflow: hidden;
+}
+.videos {
+    margin:-1px;
+    float:left;
+    width:70%;
+}
+.accounts {
+    margin:-1px;
+    float:right;
+    width:30%;
+}
+.videos * {
+    margin-left: 10px;
+}
+hr {
+    float:left;
+    margin-left:-20px;
+    height:500px;
+}
+.accountContainer {
+    border:1px solid black;
+    width:150px;
+    margin-top:10px;
+}
+.accountContainer img {
+    width:150px;
+}
+.videoContainer img {
+    height:200px;
+    width:200px;
+}
